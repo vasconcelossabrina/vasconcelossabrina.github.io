@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 100" width="320" height="100" fill="none">
+  <circle cx="160" cy="24" r="6" fill="#2E7D32" opacity="0.8"/>
+  <path d="M160 14 C154 20, 154 28, 160 32 C166 28, 166 20, 160 14 Z" fill="#C4963B"/>
+  <text x="160" y="68" font-family="'Outfit', 'Helvetica Neue', sans-serif" font-size="34" font-weight="700" letter-spacing="2" fill="#2E7D32" text-anchor="middle">SUAVITA</text>
+  <text x="160" y="88" font-family="'Outfit', 'Helvetica Neue', sans-serif" font-size="10" font-weight="600" letter-spacing="3" fill="#7A5540" text-anchor="middle">ALIMENTOS &amp; SAÚDE</text>
+</svg>
